@@ -1,0 +1,30 @@
+Algoritmo 
+
+Var
+
+pergunta : caracter
+resposta : caracter
+
+escreva : (" seu meio de transporte é terrestre?")
+escreva : (" sim ou não")
+escreva : ("sim")
+leia : (sim)
+
+escreva : ("cabe apenas uma pessoa neste transporte?")
+escreva : (" sim ou não")
+escreva : ("não")
+leia : (nao)
+
+escreva : ("nesse transporte voce faz uso de capacete?")
+escreva : (" sim ou não")
+escreva : ("sim")
+leia : (sim)
+
+escreva : ("seu meio de transporte é uma moto?")
+escreva : (" sim ou não")
+escreva : ("sim")
+leia : (sim)
+
+fim
+
+  
